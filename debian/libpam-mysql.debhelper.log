@@ -1,0 +1,15 @@
+dh_autotools-dev_updateconfig
+dh_installdirs
+dh_installdocs
+dh_installdebconf
+dh_installchangelogs
+dh_link
+dh_shlibdeps
+dh_strip
+dh_compress
+dh_fixperms
+dh_installdeb
+dh_gencontrol
+dh_md5sums
+dh_builddeb
+dh_builddeb
